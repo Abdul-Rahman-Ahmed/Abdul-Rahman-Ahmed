@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm Abdul-Rahman Ahmed
 
 **Full Stack Developer | MERN Stack | Front-end | Back-end**
