@@ -28,7 +28,7 @@ A complete user management system with authentication, password reset, and rate-
 
 ## 📫 **Get in Touch**
 
-- **LinkedIn:** [Abdul Rahman Ahmed](https://www.linkedin.com/in/abdulrahman-ahmed-935881313)
+- **LinkedIn:** [Abdul Rahman Ahmed](https://www.linkedin.com/in/abdul-rahman-ahmed-935881313)
 - **Email:** abdulrahman102034@gmail.com
 - **GitHub:** [Abdul Rahman Ahmed](https://github.com/Abdul-Rahman-Ahmed)
 
