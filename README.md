@@ -37,13 +37,13 @@ A complete user management system with authentication, password reset, and rate-
 ## 🏅 **Certifications & Achievements**
 
 - **Web Development Challenger** (Udacity - Aug 2023)  
-  [Show credential](https://link-to-certificate-1)
+  [Show credential](https://confirm.udacity.com/SXGPQUXK)
 
 - **Professional Front-End Web Development** (Udacity - Jan 2022)  
-  [Show credential](https://link-to-certificate-2)
+  [Show credential](https://confirm.udacity.com/RXVYLZ7A)
 
 - **Technical Support Fundamentals** (Google - Oct 2021)  
-  [Show credential](https://link-to-certificate-3)
+  [Show credential](https://coursera.org/verify/JRGQAL68VZJJ)
 
 - Completed various Full Stack Development.
 - Active contributor to open-source projects.
