@@ -1,51 +1,18 @@
-# 👋 Hi, I'm Abdul-Rahman Ahmed
+# 💫 About Me:
+I'm a passionate Full Stack Developer specializing in MERN Stack (MongoDB, Express.js, React, Node.js).<br>I have experience building and maintaining scalable applications,<br>and I’m always eager to explore new technologies.<br>Alongside development, constantly learning best practices to secure web applications.
 
-**Full Stack Developer | MERN Stack | Front-end | Back-end**
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-rahman-ahmed-935881313/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahman102034@gmail.com) 
 
-## 👨‍💻 **About Me**
-I'm a passionate **Full Stack Developer** specializing in **MERN Stack** (MongoDB, Express.js, React, Node.js). I have experience building and maintaining scalable applications, and I’m always eager to explore new technologies. Alongside development, constantly learning best practices to secure web applications.
-
----
-
-## 🛠️ **Skills**
-
-- **Languages:** JavaScript (ES6+), HTML, CSS
-- **Front-End:** React, Redux Toolkit, Bootstrap, Sass, Pug
-- **Back-End:** Node.js, Express.js
-- **Databases:** MongoDB, Mongoose
-- **Tools:** Git, GitHub, Postman, Gulp
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdul-Rahman-Ahmed&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abdul-Rahman-Ahmed&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rahman-Ahmed&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Abdul-Rahman-Ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔧 **My Projects**
-
-### [Users-System](https://github.com/Abdul-Rahman-Ahmed/users-system)
-A complete user management system with authentication, password reset, and rate-limiting security. Built using Node.js, Express, and MongoDB.
-
----
-
-## 📫 **Get in Touch**
-
-- **LinkedIn:** [Abdul Rahman Ahmed](https://www.linkedin.com/in/abdul-rahman-ahmed-935881313)
-- **Email:** abdulrahman102034@gmail.com
-- **GitHub:** [Abdul Rahman Ahmed](https://github.com/Abdul-Rahman-Ahmed)
-
----
-
-## 🏅 **Certifications & Achievements**
-
-- **Web Development Challenger** (Udacity - Aug 2023)  
-  [Show credential](https://confirm.udacity.com/SXGPQUXK)
-
-- **Professional Front-End Web Development** (Udacity - Jan 2022)  
-  [Show credential](https://confirm.udacity.com/RXVYLZ7A)
-
-- **Technical Support Fundamentals** (Google - Oct 2021)  
-  [Show credential](https://coursera.org/verify/JRGQAL68VZJJ)
-
-- Completed various Full Stack Development.
-- Active contributor to open-source projects.
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
