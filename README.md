@@ -25,7 +25,7 @@ I enjoy building scalable applications, designing secure APIs, and solving real-
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/abdulrahman-ahmed">
+<a href="https://www.linkedin.com/in/abdul-rahman-ahmed-935881313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
 
